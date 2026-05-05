@@ -19,6 +19,7 @@ body{
     border-bottom: solid 1px black;
     position: sticky;
     top: 0;
+    z-index:1000;
 }
 .navbarsec1,.navbarsec2,.navbarsec3{
     display: flex;
