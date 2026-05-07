@@ -19,7 +19,11 @@ body{
     border-bottom: solid 1px black;
     position: sticky;
     top: 0;
+<<<<<<< HEAD
     z-index: 1000;
+=======
+    z-index:1000;
+>>>>>>> a4e05fddcc58b198768a8b3572c4dcaf1e817731
 }
 .navbarsec1,.navbarsec2,.navbarsec3{
     display: flex;
